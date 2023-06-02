@@ -1,0 +1,18 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+input {
+  display: block;
+  margin-top: 0.5rem;
+}
+
+button {
+  margin: 5px;
+}
+
+.error {
+  color: red;
+  font-size: 0.8rem;
+}
